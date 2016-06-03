@@ -1,0 +1,2 @@
+# librtmp
+librtmp for android
